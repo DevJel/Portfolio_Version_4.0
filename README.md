@@ -69,3 +69,7 @@ Open the root `index.html` for the existing portfolio or any `showcase/<project>
 
 ## Updating
 Update the source project in its own repository first. Export an approved sanitized screen asset, replace the corresponding portfolio asset, and update the matching project README. Never publish production secrets or personal/customer records here.
+
+## Live showcase preview links
+
+The six project cards include direct links to their showcase login and dashboard previews under `/showcase/`. These are static, demonstration-only previews and do not authenticate against production systems.
